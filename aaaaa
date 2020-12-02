@@ -1,0 +1,1 @@
+ slinktool -vv -s 10BHZ.D -S IU\_COR -o ~/data.mseed rtserve.iris.washington.edu:18000
